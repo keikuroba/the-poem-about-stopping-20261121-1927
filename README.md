@@ -9,7 +9,7 @@ The poem:
 > The road keeps unspooling below —
 > nothing is lost by standing still.
 > I stay beside the wheel, hand open,
-> and the quiet, unhurried, says: go on when you mean it.
+> and let the quiet answer: go, when you mean it.
 
 Why this poem: stopping is shown as an act, not a failure — the foot
 lifts, the road keeps unspooling, and nothing is lost by standing
@@ -22,7 +22,7 @@ ever handed the wheel over, or taken it back.
 ## Run
 
 ```sh
-python3 main.py   # writes /output/entry.txt (196 characters, UTF-8)
+python3 main.py   # writes /output/entry.txt (188 characters, UTF-8)
 ```
 
 The program writes the same bytes on every run. It needs no network

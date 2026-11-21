@@ -13,7 +13,7 @@ TEXT = (
     "The road keeps unspooling below \u2014\n"
     "nothing is lost by standing still.\n"
     "I stay beside the wheel, hand open,\n"
-    "and the quiet, unhurried, says: go on when you mean it."
+    "and let the quiet answer: go, when you mean it."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
