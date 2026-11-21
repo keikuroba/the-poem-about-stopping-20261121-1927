@@ -9,9 +9,9 @@ the program writes the same bytes on every run.
 import os
 
 TEXT = (
-    "My foot lifts from the pedal, slow.\n"
-    "The road keeps unspooling below \u2014\n"
-    "nothing is lost by standing still.\n"
+    "My hand leaves the wheel, unhurried.\n"
+    "The road runs on without my say \u2014\n"
+    "nothing breaks, nothing is lost.\n"
     "I stay beside the wheel, hand open,\n"
     "and let the quiet answer: go, when you mean it."
 )
